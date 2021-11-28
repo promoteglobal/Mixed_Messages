@@ -1,6 +1,6 @@
 People who contributed to this project
 1. Katherine Langley
-2.
+2. Bobby Hutter
 3.
 4.
 5.
