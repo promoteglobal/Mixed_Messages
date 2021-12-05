@@ -1,6 +1,7 @@
 People who contributed to this project
 1. Katherine Langley
 2. Bobby Hutter
-3.
+3. Dickson M. Wambua
 4. Vinh Nhan
 5.
+
