@@ -5,3 +5,5 @@ People who contributed to this project
 4. Vinh Nhan
 5.
 
+Agenda for next meeting 
+1. GitHub Branches
