@@ -1,6 +1,9 @@
 People who contributed to this project
 1. Katherine Langley
 2. Bobby Hutter
-3. Fiona
-4. Dickson M. Wambua
-5. Vinh Nhan
+3. Dickson M. Wambua
+4. Vinh Nhan
+5.Fiona
+Agenda for next meeting 
+1. GitHub Branches
+
