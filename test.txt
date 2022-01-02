@@ -1,2 +1,0 @@
-// thsi is just a demo
-// woops. this should work now
